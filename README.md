@@ -18,6 +18,14 @@ URL Shortener is a simple web application that allows users to generate short, h
 
 ## Clone the repository:
 
-```bash
+```
 git clone https://github.com/yourusername/url-shortener.git
 cd url-shortener
+```
+#### for run and test plese refer [setup.md]()
+
+
+## Preview
+
+
+<img width="1470" alt="image" src="https://github.com/DeepakSaini77/aaaaaa/assets/80045221/3479668c-f044-4459-a807-4c8b3aad6c8e">
