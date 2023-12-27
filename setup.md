@@ -7,10 +7,27 @@ Ensure you have the following installed on your machine:
 - [Python](https://www.python.org/) (>=3.6)
 - [Redis Server](https://redis.io/download)
 
-## Clone the Repository
+Install these dependencies
 
-Clone the URL Shortener repository to your local machine:
+```
+pip install Flask Flask-CORS redis
 
-```bash
-git clone https://github.com/yourusername/url-shortener.git
-cd url-shortener
+```
+
+Start Redis server
+
+```
+redis-server
+```
+Now
+
+``` 
+python main.py
+```
+
+now go to open the index.html, or run the frontend by http-server,
+
+go to 
+``` 
+/path/to/directory/public/index.html
+```
